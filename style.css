@@ -1,0 +1,18 @@
+.playground{
+    position: relative;
+    width: 550px;
+    height: 550px;
+    background-color: green;
+    float: left;
+}
+
+.mosquito{
+    position: relative;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.btn{
+    cursor: pointer;
+}
